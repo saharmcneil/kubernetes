@@ -9,7 +9,7 @@ module k8s.io/kubernetes
 go 1.21.3
 
 require (
-	bitbucket.org/bertimus9/systemstat v0.5.0
+	bitbucket.org/bertimus9/systemstat v0.5.1
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible
 	github.com/Azure/go-autorest/autorest v0.11.29
 	github.com/Azure/go-autorest/autorest/adal v0.9.23
